@@ -58,12 +58,12 @@ function hid() {
 		    		
 		    	//this is the Home Page slide show
 		    	var homeShow = [
-		    		"images/home-poster.jpg",
-		    		"images/gal-telecfrontv.jpg",
-		    		"images/gal-radnakasekefm.jpg",
-		    		"images/home-van.jpg",
-		    		"images/home-comp.jpg",
-		    		"images/gal-tower.jpg"
+		    		"images/home-poster.jpeg",
+		    		"images/gal-telecfrontv.jpeg",
+		    		"images/gal-radnakasekefm.jpeg",
+		    		"images/home-van.jpeg",
+		    		"images/home-comp.jpeg",
+		    		"images/gal-tower.jpeg"
 		    	];
 
 		    var num = 0;
